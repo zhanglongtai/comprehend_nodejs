@@ -5,7 +5,7 @@ emitter.on("event1", function (message) {
 // publish
 emitter.emit('event1','I am message!');
 
-//
+// example
 var options = {
     host: 'www.google.com',
     port: 80,
